@@ -2,6 +2,8 @@
 
 Javascript library to parse an HTTP multipart stream.
 
+**Maintenance status:** not maintained. I've switched to WebSockets to avoid problems with browser connection limits.
+
 ## What's a multipart stream for?
 
 A multipart stream is a sequence of parts in one HTTP response, each part
